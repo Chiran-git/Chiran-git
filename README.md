@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Chiran-git/Chiran-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Full Stack Engineer** with **9 years** of experience crafting modern web apps from front to back.  
+I enjoy transforming ideas into elegant, user-friendly experiences.
 
-Here are some ideas to get you started:
+## 🧰 My Toolbox
+- 🌐 **Vue** • **React**
+- ⚙️ **Laravel** • **PHP**
+- 🛢️ **MySQL** • **SQL**
+- 🧠 **JavaScript** (and its quirks 😉)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+✨ **Code. Create. Improve. Repeat.**
